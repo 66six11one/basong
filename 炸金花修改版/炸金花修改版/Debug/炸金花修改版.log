@@ -1,0 +1,3 @@
+﻿  Card.cpp
+d:\source\myc++code\棋牌\炸金花修改版\炸金花修改版\card.cpp(181): warning C4715: “Card::Card_lv”: 不是所有的控件路径都返回值
+  炸金花修改版.vcxproj -> D:\source\MyC++code\棋牌\炸金花修改版\Debug\炸金花修改版.exe
